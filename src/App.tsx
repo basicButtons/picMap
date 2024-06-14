@@ -1,10 +1,10 @@
 import "./App.css";
-import { MainMap } from "./Page/MainMap";
+import { MainPage } from "./Page/MainMap";
 
 function App() {
   return (
     <>
-      <MainMap />
+      <MainPage />
     </>
   );
 }
